@@ -13,43 +13,41 @@ As a result, decision-makers struggled to identify why sales were declining, whi
 
 ## Business Problem
 
-The company needed a centralized and easy-to-understand view of its sales data to answer important business questions:
+The company needed a centralized and easy-to-understand view of its sales data to answer important business questions like, 
 
-- How are sales trending over time?
-- Why are sales declining during certain dates or periods?
-- Which regions, zones, or cities are experiencing a drop in sales?
+- How are sales and revenue trending over time?
+- Why are sales declining during certain months or periods?
+- Which regions or cities are experiencing a drop in sales?
 - Which customers contribute the most to overall sales?
-- Which area managers or markets are performing well?
 - Where should the company focus its efforts to improve sales?
-- Which cities or regions could benefit from targeted promotions or special offers?
 
-## 💡 Project Solution
+## Project Solution
 
 To address these challenges, this project uses SQL and Power BI to transform sales data into meaningful insights through an interactive dashboard.
 
-Instead of manually reviewing multiple Excel files and relying on inconsistent reports, decision-makers can explore sales performance in one place, identify trends and underperforming areas, compare customers and markets, and make more informed business decisions.
+Instead of manually reviewing multiple Excel files and relying on inconsistent reports, the upper management can explore sales performance in one place, identify trends and underperforming areas, compare customers and markets, and make more informed business decisions.
 
-## 📊 Key Objectives
+## Key Objectives achieved 
 
-- Analyze sales performance across different dates and time periods.
-- Compare sales across regions, zones, and cities in India.
+- Easily analyze sales performance across different months and time periods.
+- Compare sales by quantity along with the revenue across cities in India.
 - Identify declining sales trends and underperforming markets.
-- Evaluate customer-level sales performance.
-- Highlight strong-performing regions and business opportunities.
-- Support data-driven decisions related to sales strategies and targeted promotions.
+- Evaluate sales performance of different products.
+- Highlight the top consumers who are making most product purchases
+- Support data-driven decisions related to sales strategies.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **SQL** – Data querying, preparation, and cleaning.
 - **Power BI** – Interactive dashboard development and sales visualization.
 - **Excel / CSV** – Source data and data preparation, where applicable.
 
-## 📈 Expected Business Impact
+## Business Impact
 
 The dashboard is designed to reduce the effort required to review raw sales data, improve visibility into business performance, and help decision-makers identify where further investigation or action may be needed.
 
 By making sales trends and regional performance easier to understand, the company can better prioritize its sales strategy, investigate declining markets, and identify opportunities for growth.
 
-## 🚀 Conclusion
+## Conclusion
 
-This project demonstrates how SQL and Power BI can turn complex sales data into actionable business insights. It focuses on making sales performance easier to monitor, helping stakeholders identify important trends, and supporting more informed, data-driven decisions.
+This project demonstrates how SQL and Power BI transform sales data into actionable insights. The dashboard simplifies performance monitoring, highlights key trends, and supports data-driven decisions, enabling management to identify declining markets, optimize sales strategies, and uncover growth opportunities.
