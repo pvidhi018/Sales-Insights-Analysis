@@ -42,12 +42,6 @@ Instead of manually reviewing multiple Excel files and relying on inconsistent r
 - **Power BI** – Interactive dashboard development and sales visualization.
 - **Excel / CSV** – Source data and data preparation, where applicable.
 
-## Business Impact
-
-The dashboard is designed to reduce the effort required to review raw sales data, improve visibility into business performance, and help decision-makers identify where further investigation or action may be needed.
-
-By making sales trends and regional performance easier to understand, the company can better prioritize its sales strategy, investigate declining markets, and identify opportunities for growth.
-
 ## Conclusion
 
 This project demonstrates how SQL and Power BI transform sales data into actionable insights. The dashboard simplifies performance monitoring, highlights key trends, and supports data-driven decisions, enabling management to identify declining markets, optimize sales strategies, and uncover growth opportunities.
