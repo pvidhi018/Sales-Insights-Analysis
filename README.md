@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/805c9306-b257-44f9-9c56-3d2d591a30fe)
 # Sales Insights Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to help a company that supplies parts across different regions of India gain a clear understanding of its sales performance through an interactive dashboard.
 
@@ -11,7 +11,7 @@ The company was receiving sales data from different area managers in multiple Ex
 
 As a result, decision-makers struggled to identify why sales were declining, which regions were performing well, which customers were contributing the most to revenue, and where business improvement opportunities existed.
 
-## 🎯 Business Problem
+## Business Problem
 
 The company needed a centralized and easy-to-understand view of its sales data to answer important business questions:
 
