@@ -1,24 +1,7 @@
 # Sales-Insights-Analysis (PowerBI Dashboard Overview)
 
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/805c9306-b257-44f9-9c56-3d2d591a30fe)
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1294" height="811" alt="Sales insights" src="https://github.com/user-attachments/assets/7dce7ce7-2583-499d-ae99-e5f40e7231da" />
 
 # Sales Insights Analysis
 
